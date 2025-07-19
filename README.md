@@ -4,3 +4,4 @@
 3) Goa Page
 4) Conference Page
 5) Quiz Question Page
+6) Podcast Page
