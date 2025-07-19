@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.podcast-top-section {
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/podcasts-bg.png");
+    height: 30vh;
+    background-size: cover;
+	text-align: center;
+}
+
+.main-heading {
+    font-family: "Roboto";
+    font-size: 36px;
+    color: #ffffff;
+    font-weight: 500;
+    padding-top: 70px;
+}
+
+.podcast-bottom-section {
+    padding: 15px;
+}
+
+.podcast-channel-details {
+    margin: 10px;
+    cursor: pointer;
+}
+
+.image-details {
+    height: 95px;
+    width: 120px;
+}
+
+.channel-name {
+    font-family: "Roboto";
+    font-size: 15px;
+    color: #151765;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 6px;
+}
+
+.episodes {
+    font-family: "Roboto";
+    font-size: 15px;
+    color: #5a7184;
+    font-weight: 500;
+    text-align: center;
+}
+
+.top-section {
+    background-color: #151765;
+    width: 100vw;
+    background-size: cover;
+}
+
+.detail-image {
+    height: 95px;
+    width: 120px;
+}
+
+.title {
+    font-family: "Roboto";
+    font-size: 20px;
+    color: #ffffff;
+	text-decoration: underline;
+	padding-top: 12px;
+}
+
+.name {
+    font-family: "Roboto";
+    font-size: 18px;
+    color: #ffffff;
+    font-weight: bold;
+	margin-top: 10px;
+}
+
+.description {
+    font-family: "Roboto";
+    font-size: 12px;
+    color: #ffffff;
+}
+
+.bottom-section {
+    padding: 12px;
+}
+
+.bottom-section-content {
+    padding-top: 10px;
+    padding-bottom: 16px;
+}
+
+.bottom-section-text {
+    padding-left: 10px;
+}
+
+.heading {
+    font-family: "Roboto";
+    font-size: 14px;
+    color: #151765;
+    font-weight: bold;
+}
+
+.paragraph {
+    font-family: "Roboto";
+    font-size: 12px;
+    color: #5a7184;
+}
+
+.time {
+    font-family: "Roboto";
+    font-size: 10px;
+    color: #151765;
+    font-weight: bold;
+}
+
+.button {
+    font-family: "Roboto";
+    font-size: 10px;
+    background-color: #151765;
+    color: #ffffff;
+    border-width: 0;
+    border-radius: 25px;
+    height: 32px;
+    width: 75px;
+}
