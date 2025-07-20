@@ -5,3 +5,4 @@
 4) Conference Page
 5) Quiz Question Page
 6) Podcast Page
+7) Book Store Page
