@@ -1,0 +1,92 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/yoga-bg.png");
+    background-size: cover;
+    padding: 25px;
+    text-align: center;
+    height: 100vh;
+}
+
+.main-heading {
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+    color: #132d84;
+}
+
+.girl-with-headphone-image {
+    height: 250px;
+    width: 250px;
+    margin-top: 150px;
+}
+
+.description {
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: bold;
+    color: #323f4b;
+}
+
+.button {
+    height: 30px;
+    width: 80px;
+    background-color: #132d84;
+    border-width: 0px;
+    border-radius: 5px;
+    color: #fad693;
+    font-size: 12px;
+}
+
+.bg-types-container {
+    background-color: #ffedcb;
+    background-size: cover;
+    padding: 20px;
+    height: 100vh;
+}
+
+.girl-without-headphone-image {
+    height: 180px;
+    width: 180px;
+}
+
+.yoga-heading {
+    font-family: "Roboto";
+    font-size: 20px;
+    color: #132d84;
+    font-weight: bold;
+    padding-top: 15px;
+}
+
+.yoga-card {
+    background-color: #ffe2ab;
+    background-size: cover;
+    border-radius: 12px;
+    padding: 12px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.girl-exercise-image {
+    height: 80px;
+    width: 80px;
+}
+
+.exercise-text {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.exercise-name {
+    font-family: "Roboto";
+    font-size: 14px;
+    color: #253263;
+    font-weight: bold;
+}
+
+.exercise-description {
+    font-family: "Roboto";
+    font-size: 12px;
+    color: #253263;
+    font-weight: bold;
+}
