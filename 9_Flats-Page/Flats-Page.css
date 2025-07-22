@@ -1,0 +1,144 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Bree Serif:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-bg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.flats-page-card {
+    background-color: #ffffff;
+    text-align: center;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+    padding: 45px;
+    width: 40%;
+}
+
+.main-heading {
+    font-family: "Bree Serif";
+    font-size: 28px;
+    color: #f19116;
+}
+
+.description {
+    font-family: "Bree Serif";
+    font-size: 20px;
+    color: #7b8794;
+}
+
+.button {
+    font-family: "Bree Serif";
+    font-size: 12px;
+    color: #ffffff;
+    height: 30px;
+    width: 80px;
+    background-color: #f19116;
+    border-width: 0;
+    border-radius: 5px;
+    margin-top: 25px;
+}
+
+.flats-list-bg-container {
+    background-color: #222222;
+    min-height: 100vh;
+    background-size: cover;
+    padding: 24px;
+}
+
+.heading {
+    font-family: "Bree Serif";
+    font-size: 36px;
+    color: #f19116;
+}
+
+.flat-card {
+    background-color: #ffffff;
+    background-size: cover;
+    border-radius: 12px;
+    margin-bottom: 16px;
+    cursor: pointer;
+}
+
+.list-page-image {
+    height: 150px;
+    width: 124px;
+}
+
+.flat-details {
+    padding-left: 10px;
+}
+
+.flat-heading {
+    font-family: "Bree Serif";
+    font-size: 24px;
+    color: #0f0e46;
+    font-weight: bold;
+    padding-top: 15px;
+}
+
+.flat-description {
+    font-family: "Bree Serif";
+    font-size: 16px;
+    color: #6c6b70;
+}
+
+.image-bg-container {
+    background-color: #222222;
+    background-size: cover;
+}
+
+.flat-image {
+    width: 80vw;
+	height: 70vh;
+}
+
+.bottom-bg-container {
+    background-color: #222222;
+    background-size: cover;
+    padding: 15px;
+}
+
+.price {
+    font-family: "Bree Serif";
+    font-size: 22px;
+    color: #f19116;
+}
+
+.location-container {
+    padding-top: 15px;
+}
+
+.location-image {
+    height: 22px;
+    width: 24px;
+}
+
+.location {
+    font-family: "Bree Serif";
+    font-size: 14px;
+    color: #ffffff;
+    padding-left: 12px;
+}
+
+.horizontal-line {
+    background-color: #ffffff;
+    width: 100%;
+}
+
+.flat-description-heading {
+    font-family: "Bree Serif";
+    font-size: 24px;
+    color: #f19116;
+}
+
+.flat-description-details {
+    font-family: "Bree Serif";
+    font-size: 14px;
+    color: #ffffff;
+}
+
+.button-spacing {
+    margin-right: 12px;
+    margin-bottom: 60px;
+}
