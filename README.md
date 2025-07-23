@@ -8,3 +8,4 @@
 7) Book Store Page
 8) Yoga Page
 9) Flats Page
+10) Article Page
