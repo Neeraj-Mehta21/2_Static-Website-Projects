@@ -1,0 +1,119 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+    background-color: #225db0;
+    min-height: 100vh;
+    padding: 20px;
+    font-family: "Roboto";
+}
+
+.heading {
+    font-size: 30px;
+    color: #fcd703;
+    font-weight: 500;
+    margin-top: 16px;
+}
+
+.description {
+    font-size: 15px;
+    color: #ffffff;
+}
+
+.technology-card {
+    width: 125px;
+    height: 80px;
+    background-color: #ffffff;
+    background-size: cover;
+    border-radius: 8px;
+    align-items: center;
+    padding-top: 16px;
+    margin-right: 14px;
+    cursor: pointer;
+}
+
+.image {
+    height: 30px;
+    width: 30px;
+}
+
+.article-name {
+    font-size: 12px;
+    color: #1f2933;
+    font-weight: 500;
+    margin-top: 10px;
+}
+
+.carousel-container {
+	width: 60%;
+}
+
+.list-heading {
+    font-size: 20px;
+    color: #fcd703;
+    padding-top: 16px;
+    padding-bottom: 10px;
+	text-decoration: underline;
+}
+
+.topics {
+    font-size: 14px;
+    color: #ffffff;
+}
+
+.list-item {
+    padding-bottom: 10px;
+}
+
+.button {
+    height: 22px;
+    width: 44px;
+    font-size: 12px;
+    border-style: solid;
+    border-width: 1px;
+    color: #ffffff;
+    border-color: #ffffff;
+    background-color: #225db0;
+}
+
+@media screen and (min-width: 576px) {
+    .bg-container {
+        padding: 30px;
+    }
+
+    .heading {
+        font-size: 50px;
+    }
+
+    .description {
+        font-size: 26px;
+    }
+
+    .technology-card {
+        width: 240px;
+        height: 150px;
+        margin-bottom: 26px;
+    }
+
+    .image {
+        height: 70px;
+        width: 70px;
+    }
+
+    .article-name {
+        font-size: 28px;
+    }
+
+    .list-heading {
+        font-size: 50px;
+    }
+
+    .topics {
+        font-size: 30px;
+    }
+
+    .button {
+        height: 50px;
+        width: 100px;
+        font-size: 28px;
+    }
+}
